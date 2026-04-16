@@ -8,3 +8,4 @@ en el cual se hizo uso de:
     ♦ Composición se presenta entre las clases Consulta y Tratamiento.
 Esto nos permite un sistema bien organizado, reutilizable y fácil de mantener.
 """
+profe hice actualizaciones de ultimo minuto en el diagrama UML el correcto en proyecto2_uml.jpg
